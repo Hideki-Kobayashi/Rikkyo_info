@@ -1,0 +1,37 @@
+#title{
+	text-align: center;
+}
+
+#hero_img{
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ /*画像をブロック化し、両側のマージンを均等にすることで中央に揃える*/
+}
+
+#hero_message{
+	text-align: center;
+}
+
+.midashi{
+	border-bottom: solid 1px gray;
+}
+.info_list_item{
+	float: left;
+}
+
+.info_list_item_item{
+	width: 30%;
+	height: auto;
+	float: left;
+}
+.info_list_item_item img{
+	width: 80%;
+	height: auto;
+}
+
+.more_info{
+	float: right;
+	margin-right: 30px;
+	border-bottom:1px solid;  
+}
